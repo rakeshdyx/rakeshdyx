@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Rakesh
-- 👀 I’m interested in TechScoop
-- 🌱 I’m currently learning Statistics, AI&ML 
-- 💞️ I’m looking to collaborate on Me
+- 👋 Hi, I’m Rakesh
+- 👀 I’m interested in Software Engineering, DevOps and Cloud 
 - 📫 How to reach me -rakeshdyx@gmail.com
 
 <!---
