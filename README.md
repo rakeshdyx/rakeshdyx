@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakesh
-- 👀 I’m interested in Software Engineering, DevOps and Cloud 
+- 👀 I’m interested in AI, Cloud Native & Open Source 
 - 📫 How to reach me -rakeshdyx@gmail.com
 
 <!---
